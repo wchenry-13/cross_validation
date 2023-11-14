@@ -146,3 +146,10 @@ cv_df |>
 
 ```
 
+## child growth example 
+
+```{r}
+## look on course website for this example fully coded
+```
+
+
